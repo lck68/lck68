@@ -26,7 +26,6 @@ My blog was built using the Typecho engine to write some diaries, but it doesn't
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Have+a+nice+day+!!+LCK+!!;Happy+life+!!+LCK+!!)](https://git.io/typing-svg)
 ## Stats
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lck68&show_icons=true&theme=default)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lck68)](https://github.com/anuraghazra/github-readme-stats)
-[![GitHub Trends](https://api.githubtrends.io/user/svg/lck68/langs?time_range=one_year&include_private=True&theme=classic)](https://api.githubtrends.io/user/svg/lck68/langs?time_range=one_year&include_private=True&theme=classic)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lck68&show_icons=true&theme=default)
