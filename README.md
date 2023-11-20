@@ -22,7 +22,8 @@
 
 My blog was built using the Typecho engine to write some diaries, but it doesn't seem to have much content at the moment, but I may write some in the near future.
 
-<h1 align="center"> <a href="https://sunguoqi.com/"> <img src="https://readme-typing-svg.herokuapp.com/?lines=console.log(%22Hello%2C%20World!%22);Have a nice day!!&center=true&size=18"> </a> </h1>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Have+a+nice+day+!!+LCK+!!;Happy+life+!!+LCK+!!)](https://git.io/typing-svg)
+
 ## Stats
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lck68&show_icons=true&theme=default)
