@@ -10,7 +10,7 @@
 
 ### Introduction
 
-- 👋 Hi, I’m [@LCK68](https://github/lck68/)
+- 👋 Hi, I’m [@LCK68](https://github.com/lck68/)
 - 👀 I’m interested in **Python** / **Batcht**
 - 🌱 I’m currently learning **C++** / **Java** / **Go**
 - 📫 How to reach me: Telegram[@LCK88](https://t.me/lck88/)
