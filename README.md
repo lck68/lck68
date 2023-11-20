@@ -1,10 +1,10 @@
 # LCK68
 
-[![Blog](https://img.shields.io/badge/Blog-ahdark.blog-%231D7EA7.svg?logo=wordpress&logoColor=white)](https://www.tz207.cn/)
-[![GitHub](https://img.shields.io/badge/GitHub-AHdark-%2312100E.svg?logo=Github&logoColor=white)](https://github.com/lck68)
+[![Blog](https://img.shields.io/badge/Blog-LCK.blog-%231D7EA7.svg?logo=wordpress&logoColor=white)](https://www.tz207.cn/)
+[![GitHub](https://img.shields.io/badge/GitHub-LCK-%2312100E.svg?logo=Github&logoColor=white)](https://github.com/lck68)
 [![Telegram](https://img.shields.io/badge/Telegram-LCK88-%26A5E4.svg?logo=TelegramColor=white)](https://t.me/lck88)
 
-<span > <img src="https://visitor-badge.glitch.me/badge?page_id=lck68" /> <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3" /> <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white" /> </span>
+<span > <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3" /> <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white" /> <img src="https://img.shields.io/badge/-Batch-90E59A?style=flat-square&logo=Batch&logoColor=white" /> </span>
 ## About Me
 
 ### Introduction
