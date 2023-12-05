@@ -30,5 +30,5 @@ My blog was built using the Typecho engine to write some diaries, but it doesn't
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lck68&show_icons=true&theme=default)
 
-[![languages_lines](https://api.githubtrends.io/user/svg/lck68/langs?time_range=one_year&theme=classic)
-[![repo_lines](https://api.githubtrends.io/user/svg/lck68/repos?time_range=one_year&theme=classic)
+![languages_lines](https://api.githubtrends.io/user/svg/lck68/langs?time_range=one_year&theme=classic)
+![repo_lines](https://api.githubtrends.io/user/svg/lck68/repos?time_range=one_year&theme=classic)
