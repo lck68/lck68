@@ -1,6 +1,6 @@
 # LCK68
 
-[![Blog](https://img.shields.io/badge/Blog-LCK.blog-%231D7EA7.svg?logo=wordpress&logoColor=white)](https://www.tz207.cn/)
+[![Blog](https://img.shields.io/badge/Blog-LCK.blog-%231D7EA7.svg?logo=wordpress&logoColor=white)](https://lck88.pages.dev/)
 [![GitHub](https://img.shields.io/badge/GitHub-LCK-%2312100E.svg?logo=Github&logoColor=white)](https://github.com/lck68)
 [![Telegram](https://img.shields.io/badge/Telegram-LCK88-%26A5E4.svg?logo=TelegramColor=white)](https://t.me/lck88)
 
@@ -19,7 +19,7 @@
 
 ## Blog
 
-**Welcome to my blog: [LCK Blog](https://www.tz207.cn/)**
+**Welcome to my blog: [LCK Blog](https://lck88.pages.dev/)**
 
 My blog was built using the Typecho engine to write some diaries, but it doesn't seem to have much content at the moment, but I may write some in the near future.
 
