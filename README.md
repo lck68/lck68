@@ -1,6 +1,6 @@
 # LCK68
 
-[![Blog](https://img.shields.io/badge/Blog-LCK.blog-%231D7EA7.svg?logo=wordpress&logoColor=white)](https://lck88.pages.dev/)
+[![Blog](https://img.shields.io/badge/Blog-LCK.blog-%231D7EA7.svg?logo=wordpress&logoColor=white)](https://b.icxk.cn/)
 [![GitHub](https://img.shields.io/badge/GitHub-LCK-%2312100E.svg?logo=Github&logoColor=white)](https://github.com/lck68)
 [![Telegram](https://img.shields.io/badge/Telegram-LCK88-%26A5E4.svg?logo=TelegramColor=white)](https://t.me/lck88)
 
